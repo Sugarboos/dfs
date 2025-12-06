@@ -517,7 +517,7 @@ body {
 /* ===== BUTTONS ===== */
 .cta-button {
     background: linear-gradient(135deg, var(--violet-primary) 0%, var(--violet-glow) 100%);
-    color: #ffffff;
+    color: #000000;
     border: none;
     padding: 18px 48px;
     font-size: var(--font-body);
